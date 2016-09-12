@@ -1,0 +1,6 @@
+C:\Users\User\Documents\mark\APPS\JSON_WebAPI_Example\WcfService1\bin\WcfService1.dll.config
+C:\Users\User\Documents\mark\APPS\JSON_WebAPI_Example\WcfService1\bin\WcfService1.dll
+C:\Users\User\Documents\mark\APPS\JSON_WebAPI_Example\WcfService1\bin\WcfService1.pdb
+C:\Users\User\Documents\mark\APPS\JSON_WebAPI_Example\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\mark\APPS\JSON_WebAPI_Example\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\User\Documents\mark\APPS\JSON_WebAPI_Example\WcfService1\obj\Debug\WcfService1.pdb
